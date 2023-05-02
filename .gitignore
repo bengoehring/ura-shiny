@@ -1,0 +1,5 @@
+
+## R.gitignore at github/gitignore
+##
+rsconnect/
+deploy.R
